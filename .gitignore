@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+# Virtual environments
+venv/
+env/
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+# OS-specific files
+.DS_Store
+Thumbs.db
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Project-specific
+fire_alarm.mp3
